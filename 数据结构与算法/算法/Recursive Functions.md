@@ -20,7 +20,7 @@ sum_digits(738)
 
 Environment Diagram:
 
-<img src="https://s1.ax1x.com/2020/07/22/UbWsqx.png" alt="Environment Diagrams" style="zoom: 67%;" />
+<img src="https://s1.ax1x.com/2020/07/22/UbWsqx.png" alt="Environment Diagrams" style="zoom: 50%;" />
 
 ## 2. 递归函数的分析
 
@@ -81,7 +81,7 @@ result = is_even(4)
 
 Environment Diagram:
 
-<img src="https://s1.ax1x.com/2020/07/22/UbbJ1K.png" alt="UbbJ1K.png" style="zoom:67%;" />
+<img src="https://s1.ax1x.com/2020/07/22/UbbJ1K.png" alt="UbbJ1K.png" style="zoom: 50%;" />
 
 可以看到mutual recursion的environment diagram的特点是两个函数的frame交替出现。
 
